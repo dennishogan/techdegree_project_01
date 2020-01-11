@@ -104,7 +104,7 @@ header .profile-image:hover {
   margin: auto;
   padding: 0px 40px 40px;
   max-width: 500px;
-  text-align: lcenter;
+  text-align: center;
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
